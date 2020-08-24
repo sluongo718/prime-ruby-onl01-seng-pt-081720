@@ -9,6 +9,5 @@ def prime?(value)
     end
   end
 end
-true  # <= need explanation
-end
+true
 end
